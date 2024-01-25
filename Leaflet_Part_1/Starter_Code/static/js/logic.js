@@ -35,7 +35,7 @@ function depthToColor(depth) {
 
 function magnitudeToSize(magnitude) {
     // Larger size for higher magnitudes
-    return magnitude * 20000; // Adjust multiplier as needed
+    return magnitude * 20000; 
 }
 
 // Add a legend to the map
